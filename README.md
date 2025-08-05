@@ -1,4 +1,4 @@
-<h1 align="center">✨ Fullstack Chat & Video Calling App ✨</h1>
+<!-- <h1 align="center">✨ Fullstack Chat & Video Calling App ✨</h1>
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
@@ -52,4 +52,4 @@ npm run dev
 cd frontend
 npm install
 npm run dev
-```
+``` -->
