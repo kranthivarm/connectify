@@ -13,6 +13,8 @@ import { connectDB } from "./lib/db.js";
 const app = express();
 const PORT = process.env.PORT;
 
+console.log(`Connecting to MongoDB at ${process.env.MONGO_URI}`);
+
 const __dirname = path.resolve();
 
 app.use(
