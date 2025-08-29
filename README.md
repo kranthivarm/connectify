@@ -6,8 +6,7 @@
 
 ## 🚀 Features  
 - 🌍 Language-based user connections  
-- 💬 Real-time chat with Socket.io  
-- 📹 High-quality video calls using WebRTC  
+- 💬📹 Real-time and High-quality video calls using stream api
 - 🔔 Notifications for messages and calls  
 - 👤 User profiles with language preferences  
 - 🔒 Secure authentication and data storage  
