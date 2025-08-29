@@ -17,8 +17,7 @@
 - **Frontend**: React.js  
 - **Backend**: Node.js + Express.js  
 - **Database**: MongoDB  
-- **Real-time Communication**: Socket.io  
-- **Video Calls**: WebRTC  
+- **Real-time Communication**: Stream api
 
 ---
 
