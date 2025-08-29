@@ -21,8 +21,6 @@
 
 ---
 
-## 📂 Project Structure  
-
 
 
 <!-- https://connectify-u6g9.onrender.com -->
